@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+
+title: "AI Action Paths (AAP): From Human–AI Collective Learning to Autonomous Brain Unit Societies"
+
+message: >
+If you use this repository in your research, engineering, educational,
+or strategic work, please cite it using the metadata below.
+
+type: report
+
+authors:
+
+* family-names: Tan
+  given-names: Sizhe
+
+abstract: >
+AI Action Paths (AAP) introduces a structural framework for studying
+the long-term evolution of Artificial Intelligence through Action Paths.
+Rather than organizing AI solely around model architectures or benchmark
+performance, AAP studies how AI continuously expands its participation
+within Human–AI Civilization. The framework introduces the Height–
+Breadth–Depth (HBD) Evaluation Matrix and describes the evolution from
+LLM Scaling, Human–AI Discussion, Brain Units, and AI Freelance Workers
+toward Unknown Gap Detection, Hybrid AI Organizations, and future
+Human–AI Civilization.
+
+keywords:
+
+* Artificial Intelligence
+* AI Action Paths
+* Structural Intelligence
+* Human-AI Collective Learning
+* Brain Units
+* Runtime Intelligence
+* Runtime Invariants
+* Organizational Intelligence
+* HBD Framework
+* AI Evaluation
+* Human-AI Civilization
+
+license: Apache-2.0
