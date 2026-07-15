@@ -17,6 +17,10 @@ This shift transforms Runtime Invariants from isolated structural objects into m
 
 ---
 
+![Fig-001-The-Geometry-of-a-Runtime-Invariant.png](./figures/Fig-001-The-Geometry-of-a-Runtime-Invariant.png)
+
+---
+
 # 1. Introduction
 
 Every Runtime Invariant possesses two complementary aspects.
@@ -237,6 +241,10 @@ Under this perspective,
 Function Tunnels become ordered Runtime Invariant sequences,
 
 providing the bridge between static identity and dynamic computation.
+
+---
+
+![Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png](./figures/Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png)
 
 ---
 
