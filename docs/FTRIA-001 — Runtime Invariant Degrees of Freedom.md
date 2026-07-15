@@ -65,6 +65,10 @@ Therefore,
 
 ---
 
+![Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png](./figures/Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png)
+
+---
+
 # 3. Expression Families
 
 For a Runtime Invariant **R**, define
@@ -241,10 +245,6 @@ Under this perspective,
 Function Tunnels become ordered Runtime Invariant sequences,
 
 providing the bridge between static identity and dynamic computation.
-
----
-
-![Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png](./figures/Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png)
 
 ---
 
