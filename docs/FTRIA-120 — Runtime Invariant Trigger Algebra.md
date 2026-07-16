@@ -22,6 +22,22 @@ This perspective unifies Common Concept Core (CCC) Triggering, Calling Graph exe
 
 ---
 
+![Fig-220-Runtime-Invariant-Lifecycle.png](./figures/Fig-220-Runtime-Invariant-Lifecycle.png)
+
+---
+
+![Fig-221-Runtime-Triggering-inside-Configuration-Space.png](./figures/Fig-221-Runtime-Triggering-inside-Configuration-Space.png)
+
+---
+
+![Fig-222-Runtime-Context-selects-Runtime-Invariant.png](./figures/Fig-222-Runtime-Context-selects-Runtime-Invariant.png)
+
+---
+
+![Fig-224-Trigger-Trajectory.png](./figures/Fig-224-Trigger-Trajectory.png)
+
+---
+
 # 1. From Extension to Runtime Activation
 
 Discovery identifies Runtime Invariants.

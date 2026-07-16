@@ -21,6 +21,10 @@ Together, these concepts establish the geometric foundation of Runtime-Invariant
 
 ---
 
+![Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png](./figures/Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png)
+
+---
+
 # 1. Degrees of Freedom Require Boundaries
 
 The previous papers established that Runtime Invariants permit admissible variation.

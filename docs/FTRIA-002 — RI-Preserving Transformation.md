@@ -20,6 +20,10 @@ Rather than viewing software evolution as arbitrary code modification, FTRIA int
 
 ---
 
+![Fig-102-RI-Preserving-Transformation.png](./figures/Fig-102-RI-Preserving-Transformation.png)
+
+---
+
 # 1. Runtime Invariants Are Not Static Objects
 
 Traditional software often treats correctness as preserving identical code.

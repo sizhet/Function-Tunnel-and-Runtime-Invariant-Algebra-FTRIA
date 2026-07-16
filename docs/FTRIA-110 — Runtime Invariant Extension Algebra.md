@@ -22,6 +22,10 @@ This perspective unifies numerous existing methods—including CCC Preserve Gene
 
 ---
 
+![Fig-225-Three-Runtime-Algebras.png](./figures/Fig-225-Three-Runtime-Algebras.png)
+
+---
+
 # 1. From Discovery to Extension
 
 Discovery identifies a Runtime Invariant.

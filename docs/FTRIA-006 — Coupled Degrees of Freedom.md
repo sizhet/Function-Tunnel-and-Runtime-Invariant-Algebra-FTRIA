@@ -20,6 +20,10 @@ This interaction explains why complex runtime systems can exhibit remarkable fle
 
 ---
 
+![Fig-104-Hierarchical-and-Coupled-Degrees-of-Freedom.png](./figures/Fig-104-Hierarchical-and-Coupled-Degrees-of-Freedom.png)
+
+---
+
 # 1. Degrees of Freedom Are Not Independent
 
 Classical optimization often assumes variables can be modified independently.

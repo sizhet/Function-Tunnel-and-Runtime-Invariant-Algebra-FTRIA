@@ -19,7 +19,7 @@ This shift transforms Runtime Invariants from isolated structural objects into m
 
 ---
 
-![Fig-001-The-Geometry-of-a-Runtime-Invariant.png](./figures/Fig-001-The-Geometry-of-a-Runtime-Invariant.png)
+![Fig-100-Overview-of-the-FTRIA-Part-I-Framework.png](./figures/Fig-100-Overview-of-the-FTRIA-Part-I-Framework.png)
 
 ---
 
@@ -38,6 +38,10 @@ This work focuses on the second.
 We argue that every Runtime Invariant naturally defines a structured expression space whose geometry determines the flexibility, robustness, and transformability of the invariant itself.
 
 Consequently, Runtime Invariants should be understood not only as structural objects but also as centers of admissible transformation spaces.
+
+---
+
+![Fig-001-The-Geometry-of-a-Runtime-Invariant.png](./figures/Fig-001-The-Geometry-of-a-Runtime-Invariant.png)
 
 ---
 

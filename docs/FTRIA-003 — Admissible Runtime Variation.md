@@ -26,6 +26,10 @@ This shift transforms software evolution from implementation comparison into str
 
 ---
 
+![Fig-101-Runtime-Invariant-Degrees-of-Freedom.png](./figures/Fig-101-Runtime-Invariant-Degrees-of-Freedom.png)
+
+---
+
 # 1. Variation Is a Fundamental Property of Runtime Systems
 
 No practical runtime remains completely static.
