@@ -3,6 +3,8 @@
 
 **Function Tunnel and Runtime Invariant Algebra (FTRIA)**
 
+**For FTRIA Part I — Foundations of Runtime-Invariant Degrees of Freedom**
+
 ---
 
 ## Abstract
