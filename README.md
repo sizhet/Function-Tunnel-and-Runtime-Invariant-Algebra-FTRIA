@@ -1,430 +1,251 @@
-# ROADMAP
-## Function Tunnel and Runtime Invariant Algebra (FTRIA)
+# Function Tunnel Runtime Invariant Algebra (FTRIA)
 
-*A Theory Calling Graph for the Evolution of Runtime Algebra*
-
----
-
-# Purpose
-
-This roadmap describes the long-term evolution of the Function Tunnel and Runtime Invariant Algebra (FTRIA) repository.
-
-Unlike traditional research roadmaps that enumerate future papers, this document defines the **Theory Calling Graph** of FTRIA.
-
-Its purpose is to guide the evolution of the entire mathematical framework while preserving the structural identity defined by the repository Constitution.
+## From Runtime Invariant Geometry to Runtime Invariant Algebra
 
 ---
 
-# Repository Philosophy
+## Vision
 
-FTRIA is not intended to become a collection of independent papers.
+Many successful algorithms in software engineering, Artificial Intelligence, and Structural Intelligence appear fundamentally different.
 
-Instead, it is designed as an evolving mathematical system.
+Transformer Attention, Common Concept Core (CCC), Differential Trees, Calling Graphs, Function Tunnels, Runtime Migration, Fine-Tuning, and numerous other systems are usually studied independently.
 
-Every future contribution should strengthen
+FTRIA proposes a different perspective.
 
-- the Runtime Invariant,
-- the Theory Calling Graph,
-- and the overall structural consistency.
+Rather than beginning with algorithms, FTRIA begins with a common mathematical object:
 
-The objective is not to maximize the number of papers.
+> **The Runtime Invariant.**
 
-The objective is to maximize the coherence and evolutionary capacity of the theory.
+A Runtime Invariant is a structural entity that preserves its identity while admitting multiple runtime realizations.
+
+Once Runtime Invariants become explicit mathematical objects, many previously independent algorithms can be interpreted as different Runtime Operations acting upon the same underlying structures.
+
+FTRIA therefore seeks to establish a common mathematical language for Runtime Intelligence.
 
 ---
 
-# Development Strategy
+# Repository Structure
 
-The repository evolves through five stages.
+## Part I — Runtime Invariant Geometry
 
-```
+Part I establishes the geometric foundations of Runtime Invariants.
+
+Topics include
+
+* Runtime Invariant Degrees of Freedom
+* RI-Preserving Transformation
+* Admissible Runtime Variation
+* Constraint Surfaces
+* Local and Global Degrees of Freedom
+* Coupled Degrees of Freedom
+* Runtime Invariant Configuration Space
+
+The central question is:
+
+> **What is a Runtime Invariant, and what is its admissible Runtime Space?**
+
+---
+
+## Part II — Runtime Invariant Algebra
+
+Part II establishes the operational mathematics of Runtime Invariants.
+
+Three major Runtime Algebras are introduced.
+
+### Runtime Invariant Discovery
+
+How Runtime Invariants are discovered from observations.
+
+Representative topics include
+
+* Runtime Invariant Discovery
+* Common Concept Core (CCC)
+* Runtime Alignment
+* Runtime Structural Organization
+* Runtime Invariant Discovery Pipeline
+* Transformer Embeddings
+* Transformer Attention
+
+---
+
+### Runtime Invariant Extension
+
+How Runtime Invariants evolve while preserving structural identity.
+
+Representative topics include
+
+* RI-Preserving Transformation
+* Runtime Invariant Extension
+* Structural Generalization
+* Future mappings to CCC Preserve Generation, Fine-Tuning, LoRA, PEFT, Runtime Migration, and related techniques
+
+---
+
+### Runtime Invariant Triggering
+
+How Runtime Invariants become active during execution.
+
+Representative topics include
+
+* Runtime Trigger Algebra
+* Runtime Context
+* Runtime Activation
+* Calling Graphs
+* Function Tunnels
+* Agent Runtime
+* Transformer Runtime
+
+---
+
+# Runtime Invariant Lifecycle
+
+The Runtime Algebra proposed by FTRIA describes the lifecycle of Runtime Invariants.
+
+```text
 Discovery
 
 ↓
 
-Structural Positioning
+Runtime Invariant
 
 ↓
 
-Theory Refinement
+Extension
 
 ↓
 
-Implementation
+Triggering
 
 ↓
 
-Collective Evolution
+Runtime Execution
+
+↓
+
+Runtime Evolution
 ```
 
-Every new idea should first find its structural position before becoming a paper.
+This lifecycle serves as a common conceptual framework for symbolic AI, neural AI, software engineering, and future Runtime Engineering.
 
 ---
 
-# Theory Calling Graph
+# Runtime Organization Ladder
 
-```
-Constitution
+Engineering experience suggests that Runtime Invariants emerge progressively through structural organization.
 
-↓
-
-Outline
+```text
+Matching
 
 ↓
 
-Research Discussions
+Runtime Alignment
 
 ↓
 
-Figures
+Runtime Structural Organization
 
 ↓
 
-Repository-ready Articles
+Runtime Invariant
 
 ↓
 
-Algorithms
+Runtime Triggering
 
 ↓
 
-Implementations
-
-↓
-
-Applications
-
-↓
-
-Feedback
-
-↓
-
-Constitution Update
+Runtime Evolution
 ```
 
-This loop represents the Runtime of the theory itself.
+This ladder represents the constructive process by which Runtime Intelligence is gradually formed.
 
 ---
 
-# Research Workflow
+# Working Hypotheses
 
-Every newly discovered concept follows the same workflow.
+FTRIA also proposes several forward-looking research hypotheses.
 
----
+These include
 
-## Step 1
+* Runtime Operator Economy
+* From Implicit Runtime Intelligence to Explicit Runtime Algebra
+* From Runtime Alignment to Runtime Structural Organization
 
-Structural Discovery
-
-A new concept,
-
-algorithm,
-
-relationship,
-
-or observation is discovered.
+These hypotheses are intentionally presented as research directions rather than established scientific conclusions.
 
 ---
 
-## Step 2
+# Figures
 
-Structural Positioning
+The repository figures are organized as shared Runtime Assets.
 
-Ask:
+Core figures include
 
-```
-Where does this belong
-inside the Constitution
-and Outline?
-```
+* Runtime Invariant Geometry
+* Runtime Invariant Configuration Space
+* Runtime Invariant Discovery Pipeline
+* Runtime Structural Organization
+* Runtime Invariant Lifecycle
+* Three Runtime Algebras
 
-If no suitable position exists,
-
-the Outline should evolve first.
-
----
-
-## Step 3
-
-Structural Refinement
-
-Discuss
-
-scope,
-
-relationships,
-
-dependencies,
-
-and terminology.
-
-Avoid writing papers before structural clarification.
+Individual papers reference these shared figures through cross-links rather than duplicating illustrations.
 
 ---
 
-## Step 4
+# Current Scope (Version 1.0)
 
-Knowledge Construction
+Version 1.0 establishes the conceptual foundations of
 
-Generate
+* Runtime Invariant Geometry
+* Runtime Invariant Algebra
+* Runtime Structural Organization
+* Runtime Operator Economy
 
-- figures,
-- articles,
-- examples,
-- mathematical descriptions,
-- algorithms,
-- implementations.
+The objective of Version 1.0 is to establish a coherent mathematical framework rather than to comprehensively cover every existing algorithm.
 
 ---
 
-## Step 5
+# Future Releases
 
-Structural Integration
+Future versions will progressively map existing algorithms into the Runtime Invariant Algebra.
 
-Integrate the new work into
+Planned topics include
 
-the Constitution,
+* CCC Preserve Generation
+* CCC Preserve Coding
+* Dilution and Delution
+* Gap Bridging
+* Calling Graph Algebra
+* Function Tunnel Algebra
+* Transformer Runtime Triggering
+* Fine-Tuning
+* LoRA
+* PEFT
+* Runtime Mathematics
+* Runtime Engineering
 
-Outline,
-
-README,
-
-Figure Index,
-
-and related repositories.
-
----
-
-# Evolution Principles
-
-The following principles guide every future extension.
-
----
-
-## Principle 1
-
-Identity Before Expansion
-
-Never expand the repository by breaking its Runtime Identity.
-
-Every extension should strengthen structural consistency.
+The long-term vision is not to replace existing algorithms, but to provide a unified Runtime mathematical framework within which they can be understood, compared, and further developed.
 
 ---
 
-## Principle 2
+# Perspective
 
-Structure Before Papers
+FTRIA proposes that Runtime Invariants represent a useful mathematical abstraction for understanding Runtime Intelligence.
 
-Structural organization always comes before article generation.
+Whether future research confirms, revises, or extends this framework remains an open scientific question.
 
----
-
-## Principle 3
-
-Calling Graph Before Details
-
-Understand where a concept belongs before refining its implementation.
+Our goal is therefore not to conclude the study of Runtime Intelligence, but to provide a common language through which future discoveries can be more naturally connected.
 
 ---
 
-## Principle 4
+## Citation
 
-Figures Before Formalization
-
-Whenever possible,
-
-develop visual understanding before mathematical formalization.
+If this repository contributes to your research, please consider citing it using the provided **CITATION.cff** file or the associated Zenodo DOI.
 
 ---
 
-## Principle 5
+**Sizhe Tan & GPT-Obot**
 
-Collective Learning Before Individual Perfection
+*Function Tunnel Runtime Invariant Algebra (FTRIA)*
 
-A reusable structural framework is more valuable than a perfectly isolated paper.
-
----
-
-# Long-Term Research Directions
-
-Current roadmap includes
-
----
-
-## Phase I
-
-Runtime Invariant Foundations
-
-- Runtime Identity
-- Degrees of Freedom
-- Equivalence
-- Attributes
-- Orbits
-- Identity-Preserving Regions
-
----
-
-## Phase II
-
-Runtime Algebra
-
-- Projection
-- Composition
-- Decomposition
-- Translation
-- Migration
-- Dilution
-- Recovery
-
----
-
-## Phase III
-
-Function Tunnel Algebra
-
-- Runtime Invariant Sequences
-- Function Tunnel
-- Branching
-- Convergence
-- Networks
-- Time-Series
-
----
-
-## Phase IV
-
-Metric Implementations
-
-- Calling Graph
-- Differential Tree
-- Scoring Tree
-- UNT
-- ELM
-- SCR
-- RIA
-
----
-
-## Phase V
-
-Unified Runtime Mathematics
-
-- Runtime Geometry
-- Runtime Topology
-- Runtime Metrics
-- Runtime Symmetry
-- Runtime Categories
-- Runtime Complexity
-- Runtime Information Theory
-
----
-
-# Relationship with Existing Repositories
-
-FTRIA does not replace previous repositories.
-
-Instead,
-
-it provides a unified mathematical foundation connecting
-
-```
-FT
-
-↓
-
-RI
-
-↓
-
-RIA
-
-↓
-
-SCR
-
-↓
-
-SFC
-
-↓
-
-UNT
-
-↓
-
-USI
-
-↓
-
-IJS
-
-↓
-
-SRMS
-```
-
-Every repository contributes one perspective of the same Runtime Algebra.
-
----
-
-# Collective Learning
-
-FTRIA is designed for long-term Collective Learning.
-
-Future researchers are expected to
-
-- improve,
-- simplify,
-- generalize,
-- extend,
-- or even reorganize
-
-the framework.
-
-Such evolution is encouraged,
-
-provided that the Runtime Identity defined by the Constitution remains structurally consistent.
-
----
-
-# Living Theory
-
-FTRIA should be regarded as a living mathematical system.
-
-The Constitution defines its Runtime Identity.
-
-The Outline defines its structural organization.
-
-This Roadmap defines its evolutionary direction.
-
-Articles,
-
-figures,
-
-algorithms,
-
-and implementations
-
-are all projections of the same evolving theory.
-
----
-
-# Ultimate Vision
-
-The long-term objective of FTRIA is not merely to introduce another collection of algorithms.
-
-Its objective is to establish a reusable mathematical language capable of describing
-
-- structural identity,
-- structural evolution,
-- computational intelligence,
-- reusable runtime assets,
-- and collective structural learning
-
-within one unified Runtime Algebra.
-
----
-
-> "A successful mathematical framework is not measured by the number of papers it contains,
-> but by how effectively it enables future generations to extend the theory while preserving its structural identity."
+*Building a common mathematical language for Runtime Intelligence.*
