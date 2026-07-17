@@ -53,10 +53,6 @@ Consequently, Runtime Invariants should be understood not only as structural obj
 
 ---
 
-![Fig-001-The-Geometry-of-a-Runtime-Invariant.png](./figures/Fig-001-The-Geometry-of-a-Runtime-Invariant.png)
-
----
-
 # 2. Runtime Invariants Beyond Representation
 
 A Runtime Invariant should not be confused with any particular representation.
@@ -80,10 +76,6 @@ Every representation is merely a projection of the same underlying Runtime Invar
 Therefore,
 
 > **Representations change. Runtime Invariants remain.**
-
----
-
-![Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png](./figures/Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png)
 
 ---
 
