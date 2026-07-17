@@ -6,38 +6,6 @@ The format is inspired by **Keep a Changelog**, while emphasizing major research
 
 ---
 
-# Version 1.3.0
-
-Major conceptual update.
-
-Highlights
-
-• Added FTRIA-192:
-  FTRIA Looking into Its Own Mirror
-
-• Introduced the Intelligence Perspective thought experiment.
-
-• Proposed four complementary intelligence perspectives:
-
-  - Biological Runtime Intelligence
-  - Civilizational–Symbolic Intelligence
-  - Statistical–Latent Intelligence
-  - Structural–Explicit Intelligence
-
-• Proposed:
-
-  - Intelligence RI Closure
-  - Cross-Perspective Triangulation Principle
-  - Structural Naturalism
-  - Developmental Reconstruction
-  - Collective Structural Discovery Runtime
-
-• Added Fig-226.
-
-This release extends FTRIA beyond Runtime Algebra toward a broader Structural Intelligence research framework.
-
----
-
 # Version 1.0.0
 
 ## Release Highlights
@@ -208,8 +176,7 @@ These include
 * Runtime Structural Organization
 * Runtime Operator Economy
 * Runtime Figure Assets
-
-Together these concepts provide a common mathematical language for describing Runtime Intelligence.
+* FTRIA Looking into Its Own Mirror
 
 ---
 

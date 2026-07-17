@@ -17,6 +17,7 @@ The original objective of FTRIA was to organize the emerging concepts surroundin
 - Runtime Operators
 - Runtime Transformations
 - Runtime Structural Organization
+- FTRIA Looking into Its Own Mirror
 
 As the repository evolved, however, an unexpected observation emerged.
 

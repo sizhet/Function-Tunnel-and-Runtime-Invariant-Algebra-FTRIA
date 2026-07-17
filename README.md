@@ -290,26 +290,9 @@ Version 1.0 establishes the conceptual foundations of
 * Runtime Invariant Algebra
 * Runtime Structural Organization
 * Runtime Operator Economy
+* FTRIA Looking into Its Own Mirror
 
 The objective of Version 1.0 is to establish a coherent mathematical framework rather than to comprehensively cover every existing algorithm.
-
----
-
-Change Log:
-
-    Version 1.1.0
-    Runtime Invariant Algebra
-    
-    ↓
-    
-    Version 1.2.0
-    Runtime Structural Organization
-    
-    ↓
-    
-    Version 1.3.0
-    FTRIA Looking into Its Own Mirror
-    Toward Intelligence Perspective Theory
 
 ---
 
