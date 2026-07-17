@@ -36,6 +36,10 @@ The Runtime-Invariant Configuration Space provides the geometric foundation upon
 
 ---
 
+![Fig-221-Runtime-Triggering-inside-Configuration-Space.png](./figures/Fig-221-Runtime-Triggering-inside-Configuration-Space.png)
+
+---
+
 # 1. From Individual Implementations to Configuration Spaces
 
 Traditional software engineering often associates one implementation with one program.

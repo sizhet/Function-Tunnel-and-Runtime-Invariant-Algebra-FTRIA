@@ -42,6 +42,18 @@ FTRIA therefore seeks to establish a common mathematical language for Runtime In
 
 ---
 
+![Fig-220-Runtime-Invariant-Lifecycle.png](./docs/figures/Fig-220-Runtime-Invariant-Lifecycle.png)
+
+---
+
+![Fig-223-Existing-AI-Trigger-Family.png](./docs/figures/Fig-223-Existing-AI-Trigger-Family.png)
+
+---
+
+![Fig-225-Three-Runtime-Algebras.png](./docs/figures/Fig-225-Three-Runtime-Algebras.png)
+
+---
+
 Part I establishes the geometric foundations of Runtime Invariants.
 
 Topics include

@@ -34,7 +34,9 @@ This perspective unifies numerous existing methods—including CCC Preserve Gene
 
 ---
 
-*** 
+![Fig-220-Runtime-Invariant-Lifecycle.png](./figures/Fig-220-Runtime-Invariant-Lifecycle.png)
+
+---
 
 ![Fig-225-Three-Runtime-Algebras.png](./figures/Fig-225-Three-Runtime-Algebras.png)
 

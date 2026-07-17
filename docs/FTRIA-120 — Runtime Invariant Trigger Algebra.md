@@ -38,7 +38,15 @@ This perspective unifies Common Concept Core (CCC) Triggering, Calling Graph exe
 
 ---
 
+![Fig-223-Existing-AI-Trigger-Family.png](./figures/Fig-223-Existing-AI-Trigger-Family.png)
+
+---
+
 ![Fig-224-Trigger-Trajectory.png](./figures/Fig-224-Trigger-Trajectory.png)
+
+---
+
+![Fig-225-Three-Runtime-Algebras.png](./figures/Fig-225-Three-Runtime-Algebras.png)
 
 ---
 

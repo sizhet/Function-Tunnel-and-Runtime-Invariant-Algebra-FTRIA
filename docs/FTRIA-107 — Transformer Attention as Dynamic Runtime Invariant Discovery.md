@@ -34,6 +34,14 @@ This interpretation naturally connects Transformer computation with the Runtime 
 
 ---
 
+![Fig-222-Runtime-Context-selects-Runtime-Invariant.png](./figures/Fig-222-Runtime-Context-selects-Runtime-Invariant.png)
+
+---
+
+![Fig-224-Trigger-Trajectory.png](./figures/Fig-224-Trigger-Trajectory.png)
+
+---
+
 # 1. Existing Algorithm
 
 Transformer models compute contextual representations through the Attention mechanism.

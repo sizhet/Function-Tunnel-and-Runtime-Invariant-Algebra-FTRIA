@@ -40,6 +40,14 @@ The objective of RIDA is therefore not to replace existing algorithms, but to pr
 
 ---
 
+![Fig-220-Runtime-Invariant-Lifecycle.png](./figures/Fig-220-Runtime-Invariant-Lifecycle.png)
+
+---
+
+![Fig-225-Three-Runtime-Algebras.png](./figures/Fig-225-Three-Runtime-Algebras.png)
+
+---
+
 # 1. From Algorithms to Runtime Functions
 
 Traditional AI literature is typically organized according to algorithms.
