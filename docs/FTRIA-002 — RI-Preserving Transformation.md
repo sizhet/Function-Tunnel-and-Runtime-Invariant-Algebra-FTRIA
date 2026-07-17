@@ -20,6 +20,10 @@ Rather than viewing software evolution as arbitrary code modification, FTRIA int
 
 ---
 
+![Fig-101-Runtime-Invariant-Degrees-of-Freedom.png](./figures/Fig-101-Runtime-Invariant-Degrees-of-Freedom.png)
+
+---
+
 ![Fig-102-RI-Preserving-Transformation.png](./figures/Fig-102-RI-Preserving-Transformation.png)
 
 ---

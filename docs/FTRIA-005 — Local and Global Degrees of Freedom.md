@@ -20,6 +20,10 @@ Rather than viewing Runtime Invariants as monolithic objects, FTRIA models them 
 
 ---
 
+![Fig-104-Hierarchical-and-Coupled-Degrees-of-Freedom.png](./figures/Fig-104-Hierarchical-and-Coupled-Degrees-of-Freedom.png)
+
+---
+
 # 1. Degrees of Freedom Are Hierarchical
 
 The previous papers established that Runtime Invariants possess admissible regions bounded by structural constraints.

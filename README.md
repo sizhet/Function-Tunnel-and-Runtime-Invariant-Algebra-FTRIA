@@ -28,6 +28,20 @@ FTRIA therefore seeks to establish a common mathematical language for Runtime In
 
 ## Part I — Runtime Invariant Geometry
 
+---
+
+![Fig-001-The-Geometry-of-a-Runtime-Invariant.png](./docs/figures/Fig-001-The-Geometry-of-a-Runtime-Invariant.png)
+
+---
+
+![Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png](./docs/figures/Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png)
+
+---
+
+![Fig-100-Overview-of-the-FTRIA-Part-I-Framework.png](./docs/figures/Fig-100-Overview-of-the-FTRIA-Part-I-Framework.png)
+
+---
+
 Part I establishes the geometric foundations of Runtime Invariants.
 
 Topics include

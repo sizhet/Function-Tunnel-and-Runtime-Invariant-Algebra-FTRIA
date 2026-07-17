@@ -30,6 +30,18 @@ This shift transforms software evolution from implementation comparison into str
 
 ---
 
+![Fig-102-RI-Preserving-Transformation.png](./figures/Fig-102-RI-Preserving-Transformation.png)
+
+---
+
+![Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png](./figures/Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png)
+
+---
+
+![Fig-105-Runtime-Invariant-Configuration-Space.png](./figures/Fig-105-Runtime-Invariant-Configuration-Space.png)
+
+---
+
 # 1. Variation Is a Fundamental Property of Runtime Systems
 
 No practical runtime remains completely static.

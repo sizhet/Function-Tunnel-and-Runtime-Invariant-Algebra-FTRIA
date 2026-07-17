@@ -19,7 +19,19 @@ This shift transforms Runtime Invariants from isolated structural objects into m
 
 ---
 
+![Fig-001-The-Geometry-of-a-Runtime-Invariant.png](./figures/Fig-001-The-Geometry-of-a-Runtime-Invariant.png)
+
+---
+
+![Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png](./figures/Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png)
+
+---
+
 ![Fig-100-Overview-of-the-FTRIA-Part-I-Framework.png](./figures/Fig-100-Overview-of-the-FTRIA-Part-I-Framework.png)
+
+---
+
+![Fig-101-Runtime-Invariant-Degrees-of-Freedom.png](./figures/Fig-101-Runtime-Invariant-Degrees-of-Freedom.png)
 
 ---
 

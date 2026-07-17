@@ -22,6 +22,20 @@ This perspective unifies numerous existing methods—including CCC Preserve Gene
 
 ---
 
+![Fig-102-RI-Preserving-Transformation.png](./figures/Fig-102-RI-Preserving-Transformation.png)
+
+---
+
+![Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png](./figures/Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png)
+
+---
+
+![Fig-105-Runtime-Invariant-Configuration-Space.png](./figures/Fig-105-Runtime-Invariant-Configuration-Space.png)
+
+---
+
+*** 
+
 ![Fig-225-Three-Runtime-Algebras.png](./figures/Fig-225-Three-Runtime-Algebras.png)
 
 ---

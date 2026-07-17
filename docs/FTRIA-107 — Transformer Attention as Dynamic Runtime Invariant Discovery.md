@@ -30,6 +30,10 @@ This interpretation naturally connects Transformer computation with the Runtime 
 
 ---
 
+![Fig-001-The-Geometry-of-a-Runtime-Invariant.png](./figures/Fig-001-The-Geometry-of-a-Runtime-Invariant.png)
+
+---
+
 # 1. Existing Algorithm
 
 Transformer models compute contextual representations through the Attention mechanism.

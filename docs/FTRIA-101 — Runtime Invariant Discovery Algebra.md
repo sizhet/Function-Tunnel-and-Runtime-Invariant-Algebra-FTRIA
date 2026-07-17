@@ -36,11 +36,7 @@ The objective of RIDA is therefore not to replace existing algorithms, but to pr
 
 ---
 
-![Fig-225-Three-Runtime-Algebras.png](./figures/Fig-225-Three-Runtime-Algebras.png)
-
----
-
-![Fig-223-Existing-AI-Trigger-Family.png](./figures/Fig-223-Existing-AI-Trigger-Family.png)
+![Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png](./figures/Fig-002-One-Runtime-Invariant—Multiple-Perspectives.png)
 
 ---
 

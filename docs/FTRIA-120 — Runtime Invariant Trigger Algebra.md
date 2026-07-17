@@ -22,6 +22,10 @@ This perspective unifies Common Concept Core (CCC) Triggering, Calling Graph exe
 
 ---
 
+![Fig-105-Runtime-Invariant-Configuration-Space.png](./figures/Fig-105-Runtime-Invariant-Configuration-Space.png)
+
+---
+
 ![Fig-220-Runtime-Invariant-Lifecycle.png](./figures/Fig-220-Runtime-Invariant-Lifecycle.png)
 
 ---

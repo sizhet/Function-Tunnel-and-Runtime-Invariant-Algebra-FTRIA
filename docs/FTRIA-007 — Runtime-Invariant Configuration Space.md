@@ -24,6 +24,14 @@ The Runtime-Invariant Configuration Space provides the geometric foundation upon
 
 ---
 
+![Fig-100-Overview-of-the-FTRIA-Part-I-Framework.png](./figures/Fig-100-Overview-of-the-FTRIA-Part-I-Framework.png)
+
+---
+
+![Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png](./figures/Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png)
+
+---
+
 ![Fig-105-Runtime-Invariant-Configuration-Space.png](./figures/Fig-105-Runtime-Invariant-Configuration-Space.png)
 
 ---
