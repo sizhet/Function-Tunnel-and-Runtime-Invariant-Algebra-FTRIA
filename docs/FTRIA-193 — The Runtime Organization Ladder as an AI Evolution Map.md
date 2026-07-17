@@ -18,7 +18,7 @@ Although this interpretation remains a research hypothesis, it provides a unifie
 
 ---
 
-![Fig-226-FTRIA-Looking-into-Its-Own-Mirror.png](./figures/Fig-226-FTRIA-Looking-into-Its-Own-Mirror.png)
+![Fig-111-The-Runtime-Organization-Ladder.png](./figures/Fig-111-The-Runtime-Organization-Ladder.png)
 
 ---
 

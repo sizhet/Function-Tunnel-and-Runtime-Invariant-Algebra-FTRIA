@@ -33,6 +33,10 @@ Instead, it argues that the observed structural convergence is sufficiently stro
 
 ---
 
+![Fig-226-FTRIA-Looking-into-Its-Own-Mirror.png](./figures/Fig-226-FTRIA-Looking-into-Its-Own-Mirror.png)
+
+---
+
 # 1. Introduction
 
 Throughout the development of FTRIA, a recurring phenomenon gradually became difficult to ignore.
