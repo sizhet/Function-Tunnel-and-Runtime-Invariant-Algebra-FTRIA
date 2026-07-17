@@ -24,10 +24,6 @@ Rather than viewing software evolution as arbitrary code modification, FTRIA int
 
 ---
 
-![Fig-102-RI-Preserving-Transformation.png](./figures/Fig-102-RI-Preserving-Transformation.png)
-
----
-
 # 1. Runtime Invariants Are Not Static Objects
 
 Traditional software often treats correctness as preserving identical code.
@@ -51,6 +47,12 @@ The Runtime Invariant therefore survives implementation changes.
 ---
 
 # 2. What Is an RI-Preserving Transformation?
+
+---
+
+![Fig-102-RI-Preserving-Transformation.png](./figures/Fig-102-RI-Preserving-Transformation.png)
+
+---
 
 An **RI-Preserving Transformation** is any transformation that changes the implementation while preserving the Runtime Invariant.
 

@@ -30,19 +30,13 @@ This shift transforms software evolution from implementation comparison into str
 
 ---
 
-![Fig-102-RI-Preserving-Transformation.png](./figures/Fig-102-RI-Preserving-Transformation.png)
+# 1. Variation Is a Fundamental Property of Runtime Systems
 
 ---
 
 ![Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png](./figures/Fig-103-Constraint-Surfaces-and-Invariant-Boundaries.png)
 
 ---
-
-![Fig-105-Runtime-Invariant-Configuration-Space.png](./figures/Fig-105-Runtime-Invariant-Configuration-Space.png)
-
----
-
-# 1. Variation Is a Fundamental Property of Runtime Systems
 
 No practical runtime remains completely static.
 
@@ -67,6 +61,12 @@ but whether the variation preserves the Runtime Invariant.
 ---
 
 # 2. Not Every Variation Is Admissible
+
+---
+
+![Fig-102-RI-Preserving-Transformation.png](./figures/Fig-102-RI-Preserving-Transformation.png)
+
+---
 
 Two categories of runtime variation exist.
 
@@ -144,6 +144,12 @@ admissibility is fundamentally a structural property.
 ---
 
 # 5. Runtime Variation Space
+
+---
+
+![Fig-105-Runtime-Invariant-Configuration-Space.png](./figures/Fig-105-Runtime-Invariant-Configuration-Space.png)
+
+---
 
 Every Runtime Invariant owns a variation space.
 
