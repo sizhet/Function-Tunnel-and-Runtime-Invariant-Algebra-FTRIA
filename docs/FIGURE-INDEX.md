@@ -379,6 +379,136 @@ Runtime Invariant Algebra
 
 ---
 
+## Fig-226 — **FTRIA Looking into Its Own Mirror: Multiple Perspectives, One Invariant Architecture**
+
+**Related document:**  
+**FTRIA-192 — *FTRIA Looking into Its Own Mirror***
+
+**Keywords:** Intelligence Perspective, Runtime Invariant, Structural Intelligence, Cross-Perspective Triangulation, Intelligence RI Closure, Structural Naturalism
+
+---
+
+### Purpose
+
+Fig-226 serves as the conceptual culmination of the FTRIA repository.
+
+Unlike previous figures that introduce Runtime Algebra, Runtime Operators, or Runtime Structural Organization, this figure turns the entire FTRIA framework back upon itself.
+
+It asks a higher-level scientific question:
+
+> **Can different forms of intelligence be understood as multiple perspective representations of a deeper Intelligence Invariant Architecture?**
+
+Rather than comparing biological intelligence, modern AI, and Structural Intelligence as competing paradigms, the figure investigates whether they preserve common structural organizations while expressing them through different runtime implementations.
+
+---
+
+### Figure Overview
+
+The figure is organized into four major sections.
+
+#### 1. Four Perspectives of Intelligence
+
+The upper section presents four complementary perspectives through which intelligence may be expressed:
+
+- **Perspective I — Biological Runtime Intelligence**
+- **Perspective II — Civilizational–Symbolic Intelligence**
+- **Perspective III — Statistical–Latent Intelligence**
+- **Perspective IV — Structural–Explicit Intelligence (MET/SI)**
+
+Each perspective represents a different implementation rather than a different definition of intelligence.
+
+At the center lies the proposed:
+
+**Intelligence Invariant Architecture**
+
+representing the hypothetical structural identity shared across multiple runtime realizations.
+
+---
+
+#### 2. Cross-Perspective Triangulation
+
+The middle section introduces one of the central methodological ideas proposed in FTRIA-192.
+
+Instead of relying upon a single implementation,
+
+confidence in an intelligence principle increases when independent perspectives repeatedly preserve the same structural relationships.
+
+The figure illustrates four complementary validation directions:
+
+- Structural Correspondence
+- Translation
+- Capability Preservation
+- Generative Validation
+
+Together,
+
+they form the proposed **Cross-Perspective Triangulation Principle**.
+
+---
+
+#### 3. Developmental Roadmap of Structural Intelligence
+
+The lower-middle section summarizes a possible long-term evolution path for Structural Intelligence:
+
+1. Structural Explanation
+2. Structural Reconstruction
+3. Cross-Perspective Translation
+4. Self-Developing Structural Runtime
+5. Multi-Perspective Intelligence Ecology
+
+Rather than pursuing Artificial Super Intelligence through monolithic optimization,
+
+this roadmap emphasizes incremental structural organization and Runtime Invariant accumulation.
+
+---
+
+#### 4. Foundations Provided by FTRIA
+
+The bottom section connects the outlook presented in Fig-226 with the technical foundations developed throughout the repository.
+
+These include:
+
+- Function Tunnel (FT)
+- Runtime Invariant (RI)
+- Common Concept Core (CCC)
+- Bucket Tree of Permutation (BTP)
+- Calling Graph
+- Runtime Operators
+- Runtime Algebra
+- Structural Feasibility Confidence (SFC)
+
+Together,
+
+these components constitute the current structural foundation upon which future Structural Intelligence research may continue to evolve.
+
+---
+
+### Why This Figure Matters
+
+Most figures in this repository explain individual concepts.
+
+Fig-226 explains the possible significance of the repository itself.
+
+It proposes that the MET research path may have unintentionally constructed an explicit structural perspective of intelligence alongside biological, symbolic, and statistical perspectives.
+
+This hypothesis remains intentionally open.
+
+Its purpose is not to claim that intelligence has been solved,
+
+but to provide a coherent research framework for investigating:
+
+- Intelligence Perspective Theory
+- Intelligence Runtime Invariant Architecture
+- Cross-Perspective Translation
+- Runtime Organization across heterogeneous intelligence systems
+- Future Structural Intelligence (SI) and Artificial Super Intelligence (ASI)
+
+For this reason,
+
+**Fig-226 should be regarded as the conceptual epilogue of the FTRIA repository and the conceptual bridge toward future research beyond Runtime Algebra.**
+
+--- 
+
 # Recommended Figure Reading Path
 
 For first-time readers, the following order is recommended.
@@ -391,6 +521,7 @@ For first-time readers, the following order is recommended.
 6. Fig-110 — Operator Economy of Intelligence
 7. Fig-220 — Runtime Invariant Lifecycle
 8. Fig-225 — Three Runtime Algebras
+9. Fig-226 — FTRIA Looking into Its Own Mirror
 
 Following this sequence provides a visual introduction to the complete FTRIA framework before reading the individual papers.
 
