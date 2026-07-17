@@ -42,18 +42,6 @@ FTRIA therefore seeks to establish a common mathematical language for Runtime In
 
 ---
 
-![Fig-220-Runtime-Invariant-Lifecycle.png](./docs/figures/Fig-220-Runtime-Invariant-Lifecycle.png)
-
----
-
-![Fig-223-Existing-AI-Trigger-Family.png](./docs/figures/Fig-223-Existing-AI-Trigger-Family.png)
-
----
-
-![Fig-225-Three-Runtime-Algebras.png](./docs/figures/Fig-225-Three-Runtime-Algebras.png)
-
----
-
 Part I establishes the geometric foundations of Runtime Invariants.
 
 Topics include
@@ -76,6 +64,12 @@ The central question is:
 
 Part II establishes the operational mathematics of Runtime Invariants.
 
+---
+
+![Fig-220-Runtime-Invariant-Lifecycle.png](./docs/figures/Fig-220-Runtime-Invariant-Lifecycle.png)
+
+---
+
 Three major Runtime Algebras are introduced.
 
 ### Runtime Invariant Discovery
@@ -95,6 +89,16 @@ Representative topics include
 ---
 
 ### Runtime Invariant Extension
+
+---
+
+![Fig-223-Existing-AI-Trigger-Family.png](./docs/figures/Fig-223-Existing-AI-Trigger-Family.png)
+
+---
+
+![Fig-225-Three-Runtime-Algebras.png](./docs/figures/Fig-225-Three-Runtime-Algebras.png)
+
+---
 
 How Runtime Invariants evolve while preserving structural identity.
 
