@@ -62,13 +62,13 @@ The central question is:
 
 ## Part II — Runtime Invariant Algebra
 
+---
+
+![Fig-225-Three-Runtime-Algebras.png](./docs/figures/Fig-225-Three-Runtime-Algebras.png)
+
+---
+
 Part II establishes the operational mathematics of Runtime Invariants.
-
----
-
-![Fig-220-Runtime-Invariant-Lifecycle.png](./docs/figures/Fig-220-Runtime-Invariant-Lifecycle.png)
-
----
 
 Three major Runtime Algebras are introduced.
 
@@ -90,16 +90,6 @@ Representative topics include
 
 ### Runtime Invariant Extension
 
----
-
-![Fig-223-Existing-AI-Trigger-Family.png](./docs/figures/Fig-223-Existing-AI-Trigger-Family.png)
-
----
-
-![Fig-225-Three-Runtime-Algebras.png](./docs/figures/Fig-225-Three-Runtime-Algebras.png)
-
----
-
 How Runtime Invariants evolve while preserving structural identity.
 
 Representative topics include
@@ -112,6 +102,12 @@ Representative topics include
 ---
 
 ### Runtime Invariant Triggering
+
+---
+
+![Fig-223-Existing-AI-Trigger-Family.png](./docs/figures/Fig-223-Existing-AI-Trigger-Family.png)
+
+---
 
 How Runtime Invariants become active during execution.
 
@@ -128,6 +124,12 @@ Representative topics include
 ---
 
 # Runtime Invariant Lifecycle
+
+---
+
+![Fig-220-Runtime-Invariant-Lifecycle.png](./docs/figures/Fig-220-Runtime-Invariant-Lifecycle.png)
+
+---
 
 The Runtime Algebra proposed by FTRIA describes the lifecycle of Runtime Invariants.
 
@@ -160,6 +162,12 @@ This lifecycle serves as a common conceptual framework for symbolic AI, neural A
 ---
 
 # Runtime Organization Ladder
+
+---
+
+![Fig-111-The-Runtime-Organization-Ladder.png](./docs/figures/Fig-111-The-Runtime-Organization-Ladder.png)
+
+---
 
 Engineering experience suggests that Runtime Invariants emerge progressively through structural organization.
 
