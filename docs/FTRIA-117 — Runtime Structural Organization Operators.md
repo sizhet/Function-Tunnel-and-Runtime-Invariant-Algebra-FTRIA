@@ -18,6 +18,18 @@ Under this interpretation, Runtime Alignment becomes one important specializatio
 
 ---
 
+![Fig-109-Runtime-Structural-Organization-Family.png](./figures/Fig-109-Runtime-Structural-Organization-Family.png)
+
+---
+
+![Fig-108-Alignment-vs-Organization.png](./figures/Fig-108-Alignment-vs-Organization.png)
+
+---
+
+![Fig-111-The-Runtime-Organization-Ladder.png](./figures/Fig-111-The-Runtime-Organization-Ladder.png)
+
+---
+
 # 1. From Alignment to Organization
 
 Runtime Alignment establishes structural correspondences among multiple observations.

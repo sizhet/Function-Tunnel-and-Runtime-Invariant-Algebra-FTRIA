@@ -22,6 +22,14 @@ Rather than assuming that increasing intelligence necessarily requires increasin
 
 ---
 
+![Fig-110-Operator-Economy-of-Intelligence.png](./figures/Fig-110-Operator-Economy-of-Intelligence.png)
+
+---
+
+![Fig-111-The-Runtime-Organization-Ladder.png](./figures/Fig-111-The-Runtime-Organization-Ladder.png)
+
+---
+
 # 1. Complexity from Simplicity
 
 Throughout science,

@@ -18,6 +18,18 @@ This pipeline provides a common structural language for understanding both symbo
 
 ---
 
+![Fig-107-Runtime-Invariant-Discovery-Pipeline.png](./figures/Fig-107-Runtime-Invariant-Discovery-Pipeline.png)
+
+---
+
+![Fig-106-Runtime-Alignment-Operator.png](./figures/Fig-106-Runtime-Alignment-Operator.png)
+
+---
+
+![Fig-108-Alignment-vs-Organization.png](./figures/Fig-108-Alignment-vs-Organization.png)
+
+---
+
 # 1. Discovery as a Process Rather Than an Algorithm
 
 Runtime Invariant Discovery should not be regarded as a single computational step.

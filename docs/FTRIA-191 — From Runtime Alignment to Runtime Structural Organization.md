@@ -26,6 +26,18 @@ Rather than replacing Runtime Alignment, Runtime Structural Organization extends
 
 ---
 
+![Fig-112-From-Alignment-to-Structural-Organization.png](./figures/Fig-112-From-Alignment-to-Structural-Organization.png)
+
+---
+
+![Fig-108-Alignment-vs-Organization.png](./figures/Fig-108-Alignment-vs-Organization.png)
+
+---
+
+![Fig-111-The-Runtime-Organization-Ladder.png](./figures/Fig-111-The-Runtime-Organization-Ladder.png)
+
+---
+
 # 1. Runtime Alignment as the First Step
 
 Runtime Alignment establishes structural correspondence among multiple runtime observations.
