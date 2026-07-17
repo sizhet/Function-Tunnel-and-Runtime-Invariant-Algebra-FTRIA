@@ -18,6 +18,10 @@ Although this interpretation remains a research hypothesis, it provides a unifie
 
 ---
 
+![Fig-226-FTRIA-Looking-into-Its-Own-Mirror.png](./figures/Fig-226-FTRIA-Looking-into-Its-Own-Mirror.png)
+
+---
+
 # 1. A Runtime-Centered Perspective
 
 AI systems are often grouped according to their implementation.
