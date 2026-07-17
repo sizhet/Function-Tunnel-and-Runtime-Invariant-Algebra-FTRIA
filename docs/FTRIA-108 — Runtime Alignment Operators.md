@@ -480,4 +480,4 @@ This progression is developed further in FTRIA-117 and FTRIA-191.
 **Future Directions**
 
 - FTRIA-191 — From Runtime Alignment to Runtime Structural Organization
-- FTRIA-192 — The Runtime Organization Ladder as an AI Evolution Map
+- FTRIA-193 — The Runtime Organization Ladder as an AI Evolution Map
