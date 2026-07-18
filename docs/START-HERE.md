@@ -283,7 +283,7 @@ For readers interested in the broader vision of Structural Intelligence:
 
 1. FTRIA-118 — *Operator Economy of Intelligence*
 2. FTRIA-191 — *From Runtime Alignment to Runtime Structural Organization*
-3. **FTRIA-192 — FTRIA Looking into Its Own Mirror**
+3. FTRIA-192 — *FTRIA Looking into Its Own Mirror*
 
 Together,
 
