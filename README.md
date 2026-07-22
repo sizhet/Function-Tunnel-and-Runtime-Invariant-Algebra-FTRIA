@@ -123,6 +123,76 @@ Representative topics include
 
 ---
 
+# Part X — Grand Synthesis
+
+## Toward the AI Unified Computational Field
+
+The previous five parts of **Structural Runtime AI (SRAI)** established a runtime-centric theory of intelligence, including Metric Spaces, Structural Differences, Runtime Operators, Runtime Intelligence, Runtime Organization, and their engineering implications.
+
+Throughout this journey, another observation gradually emerged.
+
+Many concepts that initially appeared independent—including Function Tunnels (FT), Runtime Invariants (RI), Differential Trees, Two-Phases Search, Runtime Structural Organization, and even modern Transformer-based neural computation—began to reveal unexpected structural relationships.
+
+This observation motivates **Part X — Grand Synthesis**.
+
+---
+
+#### Fig-600-Grand-Synthesis-Toward-the-AI-Unified-Computational-Field.png
+
+![Fig-600-Grand-Synthesis-Toward-the-AI-Unified-Computational-Field.png](./docs/Grand-Synthesis—Toward-the-AI-Unified-Computational-Field/figures/Fig-600-Grand-Synthesis-Toward-the-AI-Unified-Computational-Field.png)
+
+---
+
+Rather than introducing another algorithm or another architecture, Part X steps back to ask a broader scientific question:
+
+> **Can Artificial Intelligence be understood through a unified runtime-centric computational framework?**
+
+The six chapters in this part propose one possible direction.
+
+Instead of organizing AI primarily around algorithms or architectures, they explore the possibility of organizing AI around **Runtime Objects**, **Runtime Representations**, and the broader **AI Unified Computational Field**.
+
+The goal is deliberately modest.
+
+This work does **not** claim that all AI systems are mathematically equivalent, nor does it argue that existing architectures should be replaced. Transformer-based neural computation represents one of the greatest engineering achievements in AI history, and its importance is fully recognized throughout this work.
+
+Instead, Part X asks a different question:
+
+> **If one successful Runtime Representation exists, might other Runtime Representations also exist?**
+
+> **If multiple Runtime Representations exist, might they share deeper Runtime Objects and Runtime Invariants?**
+
+Exploring these questions naturally leads from **Representation Scaling** toward **Representation Discovery**, from isolated computational architectures toward **Runtime Representation Families**, and ultimately toward the concept of an **AI Unified Computational Field**.
+
+This perspective also suggests that future intelligent computation may benefit from two complementary mathematical viewpoints:
+
+* **Exact Computation**, which provides the rigorous foundation for deterministic symbolic systems;
+* **Structurally Faithful Computation**, which studies computation that preserves essential runtime structures under adaptation, approximation, and evolution.
+
+Together, these ideas form the **Grand Synthesis** presented in this final part.
+
+---
+
+## Part X Overview
+
+* **GS-001 — Toward the AI Unified Computational Field**
+* **GS-002 — Runtime Representation Theory**
+* **GS-003 — The Runtime Representation Spectrum**
+* **GS-004 — Representation Evolution: From Scaling to Discovery**
+* **GS-005 — Exact Computation and Structurally Faithful Computation**
+* **GS-006 — Manifesto: From Scaling Representations to Discovering Runtime Objects**
+
+---
+
+Part X serves as the theoretical bridge connecting **Structural Runtime AI (SRAI)** and **Function Tunnel & Runtime Invariant Algebra (FTRIA)**.
+
+Rather than concluding these research programs, it places them within a broader runtime-centric view of intelligent computation and opens a long-term research agenda centered on Runtime Objects, Runtime Representation Science, Runtime Algebra, and the continued exploration of the AI Unified Computational Field.
+
+The objective is not to close a theory.
+
+It is to help open a new field of study.
+
+---
+
 # Runtime Invariant Lifecycle
 
 ---
