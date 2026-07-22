@@ -157,3 +157,7 @@
 48. Function Tunnel Runtime Invariant Algebra (FTRIA) \
     From Runtime Invariant Geometry to Runtime Invariant Algebra \
     Repository: https://github.com/sizhet/Function-Tunnel-and-Runtime-Invariant-Algebra-FTRIA
+
+49. Structural Runtime AI (SRAI) \
+    From Structural Intelligence to Persistent Runtime Intelligence \
+    Repository: https://github.com/sizhet/Structural-Runtime-AI-SRAI
