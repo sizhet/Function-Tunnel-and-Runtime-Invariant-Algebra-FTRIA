@@ -1,5 +1,37 @@
 
+---
 
+## Release V1.1.0
+
+
+DOI
+
+10.5281/zenodo.21522265
+
+Markdown
+
+[![DOI](https://zenodo.org/badge/1301034397.svg)](https://doi.org/10.5281/zenodo.21421515)
+
+reStructuredText
+
+.. image:: https://zenodo.org/badge/1301034397.svg
+  :target: https://doi.org/10.5281/zenodo.21421515
+
+HTML
+
+<a href="https://doi.org/10.5281/zenodo.21421515"><img src="https://zenodo.org/badge/1301034397.svg" alt="DOI"></a>
+
+Image URL
+
+https://zenodo.org/badge/1301034397.svg
+
+Target URL
+
+https://doi.org/10.5281/zenodo.21421515
+
+---
+
+## Release V1.0.0
 
 DOI
 
