@@ -139,7 +139,7 @@ This observation motivates **Part X — Grand Synthesis**.
 
 #### Fig-600-Grand-Synthesis-Toward-the-AI-Unified-Computational-Field.png
 
-![Fig-600-Grand-Synthesis-Toward-the-AI-Unified-Computational-Field.png](docs/v1.1.0-Added-Grand-Synthesis—Toward-the-AI-Unified-Computational-Field/figures/Fig-600-Grand-Synthesis-Toward-the-AI-Unified-Computational-Field.png)
+![Fig-600-Grand-Synthesis-Toward-the-AI-Unified-Computational-Field.png](docs/v1.1.0-Addition—Grand-Synthesis-Toward-the-AI-Unified-Computational-Field/figures/Fig-600-Grand-Synthesis-Toward-the-AI-Unified-Computational-Field.png)
 
 ---
 
